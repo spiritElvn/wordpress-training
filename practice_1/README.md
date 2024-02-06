@@ -1,2 +1,0 @@
-"# wordpress-training" 
-"# wordpress-training" 
