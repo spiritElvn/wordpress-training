@@ -1,0 +1,244 @@
+.text-3 {
+  font-size: 3rem;
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  font-family: "Roboto";
+  font-size: 15px;
+}
+
+.wrapper {
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+a {
+  text-decoration-line: none;
+}
+
+.dash {
+  width: 15vw;
+  height: 0.3rem;
+  background: #f9bf3b;
+  border: 0;
+}
+
+.button-register {
+  font-size: 2.1rem;
+  font-family: "Roboto condensed";
+  color: #FFFFFF;
+  text-transform: uppercase;
+  background: linear-gradient(#3ab6da, #2798b9);
+  border: 0;
+  box-shadow: 0 0 1rem 0 #000000;
+  padding: 2.4rem 2.9rem;
+}
+
+.link-underlined {
+  text-decoration-line: underline;
+}
+
+.bg-img {
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.header_wrapper {
+  background-image: url(../img/bg/header_bg.svg);
+  padding: 3.8rem 0 5.8rem;
+}
+.header_logo_title {
+  font-size: 1.5rem;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  font-weight: 500;
+  margin-top: 10px;
+}
+.header_title {
+  font-size: 4.1rem;
+  color: #f9bf3b;
+  text-transform: uppercase;
+  font-weight: 900;
+  margin-top: 55px;
+}
+.header_title_large-text {
+  font-size: 8rem;
+  color: #FFFFFF;
+}
+.header_subtitle {
+  width: 76vw;
+  font-size: 2.1rem;
+  color: #FFFFFF;
+  font-weight: 300;
+  line-height: 1.33;
+  margin: -5px auto 0;
+}
+.header_subtitle_highlighted-text {
+  color: #f9bf3b;
+  text-transform: uppercase;
+}
+.header_form {
+  margin-top: 70px;
+}
+.header_more-about {
+  margin-top: 7.5rem;
+}
+.header_more-about_link {
+  font-size: 1.5rem;
+  color: #FFFFFF;
+  font-weight: 100;
+  text-transform: uppercase;
+}
+.header_more-about_row-down {
+  margin-top: 5px;
+}
+
+.main_intensive {
+  background-color: #efefef;
+  padding: 80px 0 110px 0;
+}
+.main_intensive_title {
+  color: #252525;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+.main_intensive_dash {
+  margin: 15px auto;
+}
+.main_intensive_subtitle {
+  font-size: 2.3rem;
+  color: #4a4a4a;
+  font-weight: 400;
+}
+.main_intensive_steps {
+  display: flex;
+  justify-content: space-between;
+  width: 75.5vw;
+  margin: 4rem auto 0;
+}
+.main_intensive_steps_card {
+  width: 36rem;
+}
+.main_intensive_steps_card_text {
+  font-size: 1.5rem;
+  color: #4a4a4a;
+  font-weight: 300;
+  line-height: 1.4;
+  margin-top: 25px;
+}
+.main_optimisation_wrapper {
+  display: flex;
+  justify-content: end;
+  width: 89vw;
+  background-image: url(../img/bg/optimisation_bg.svg);
+  padding-bottom: 70px;
+}
+.main_optimisation_text-block {
+  width: 58%;
+}
+.main_optimisation_text-block_title {
+  color: #299cbd;
+  text-transform: uppercase;
+  font-weight: 900;
+  margin: 57px 0 0 0;
+}
+.main_optimisation_text-block_description {
+  font-size: 1.7rem;
+  color: #4a4a4a;
+  font-weight: 300;
+  line-height: 2;
+  margin: 0;
+}
+.main_optimisation_text-block_description_highlighted {
+  font-weight: 700;
+}
+.main_finish-education {
+  background-image: url(../img/bg/education_finish_bg.svg);
+}
+.main_finish-education_wrapper {
+  padding: 80px 0 75px 0;
+}
+.main_finish-education_title {
+  color: #FFFFFF;
+  text-transform: uppercase;
+}
+.main_finish-education_dash {
+  margin-top: 15px;
+}
+.main_finish-education_skills {
+  width: 78vw;
+  display: flex;
+  justify-content: space-between;
+  margin: 45px auto 0;
+}
+.main_finish-education_skills_skill {
+  width: 23.2rem;
+}
+.main_finish-education_skills_desc {
+  font-size: 1.7rem;
+  color: #FFFFFF;
+  font-weight: 300;
+}
+.main_finish-gifts {
+  background-color: #efefef;
+  padding: 85px 0;
+}
+.main_finish-gifts_desc {
+  color: #252525;
+  line-height: 1.43;
+  width: 77vw;
+  margin: 33px auto 0;
+}
+.main_finish-gifts_button {
+  margin: 45px 0 0 0;
+}
+.main_first-vebinar {
+  padding: 90px 0 45px 0;
+}
+.main_first-vebinar_title {
+  color: #252525;
+  font-weight: 400;
+  text-transform: uppercase;
+  margin: 30px 0 0 0;
+}
+.main_first-vebinar_date {
+  font-size: 3.6rem;
+  color: #299cbd;
+  font-weight: 900;
+  text-transform: uppercase;
+  margin: 20px 0;
+}
+.main_first-vebinar_subtitle {
+  font-size: 2.3rem;
+  color: #4a4a4a;
+  font-weight: 400;
+}
+
+.footer {
+  background-color: #1a1a1a;
+}
+.footer_wrapper {
+  padding: 45px 0 60px 0;
+}
+.footer_links {
+  color: #888888;
+  font-weight: 300;
+}
+.footer_links_link {
+  color: #888888;
+}
+.footer_links_phone {
+  margin: -10px 0 0 0;
+}/*# sourceMappingURL=style.css.map */
